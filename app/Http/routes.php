@@ -14,4 +14,5 @@
 Route::get('/', 'GetData@index');
 Route::get('/welcome', function () {
     return view('welcome');
+    //route
 });
