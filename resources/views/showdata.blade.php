@@ -11,8 +11,8 @@
 	</head>
 <body>
 
-	<a href="/welcome">TST</a>
-{{$tst}}
+
+
 
 
 @foreach ($arrayAux as $init )
