@@ -16,6 +16,7 @@
 
 
 @foreach ($arrayAux as $init )
+Origin: CNPQ<br>
 {{$init}} <br>
  <br><br><br><br>
 @endforeach
